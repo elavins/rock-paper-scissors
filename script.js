@@ -1,3 +1,7 @@
+/**
+ *  
+ */
+
 let results = [];
 
 for (let i = 0; i < 5; i++) {;
@@ -5,8 +9,6 @@ for (let i = 0; i < 5; i++) {;
 }
 
 printResults();
-
-
 
 function playGame() {
     let move = playerMove();
